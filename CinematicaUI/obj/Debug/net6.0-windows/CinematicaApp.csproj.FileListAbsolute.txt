@@ -1,0 +1,5 @@
+D:\.Net projects\CinematiacaBeta\CinematicaUI\obj\Debug\net6.0-windows\CinematicaApp.csproj.AssemblyReference.cache
+D:\.Net projects\CinematiacaBeta\CinematicaUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\.Net projects\CinematiacaBeta\CinematicaUI\obj\Debug\net6.0-windows\App.g.cs
+D:\.Net projects\CinematiacaBeta\CinematicaUI\obj\Debug\net6.0-windows\CinematicaApp_MarkupCompile.cache
+D:\.Net projects\CinematiacaBeta\CinematicaUI\obj\Debug\net6.0-windows\CinematicaApp_MarkupCompile.lref

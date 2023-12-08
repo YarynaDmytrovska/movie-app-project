@@ -1,0 +1,12 @@
+D:\.Net projects\CinematiacaBeta\CinematicaDAL\bin\Debug\net6.0\CinematicaDAL.deps.json
+D:\.Net projects\CinematiacaBeta\CinematicaDAL\bin\Debug\net6.0\CinematicaDAL.dll
+D:\.Net projects\CinematiacaBeta\CinematicaDAL\bin\Debug\net6.0\CinematicaDAL.pdb
+D:\.Net projects\CinematiacaBeta\CinematicaDAL\obj\Debug\net6.0\CinematicaDAL.csproj.AssemblyReference.cache
+D:\.Net projects\CinematiacaBeta\CinematicaDAL\obj\Debug\net6.0\CinematicaDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net projects\CinematiacaBeta\CinematicaDAL\obj\Debug\net6.0\CinematicaDAL.AssemblyInfoInputs.cache
+D:\.Net projects\CinematiacaBeta\CinematicaDAL\obj\Debug\net6.0\CinematicaDAL.AssemblyInfo.cs
+D:\.Net projects\CinematiacaBeta\CinematicaDAL\obj\Debug\net6.0\CinematicaDAL.csproj.CoreCompileInputs.cache
+D:\.Net projects\CinematiacaBeta\CinematicaDAL\obj\Debug\net6.0\CinematicaDAL.dll
+D:\.Net projects\CinematiacaBeta\CinematicaDAL\obj\Debug\net6.0\refint\CinematicaDAL.dll
+D:\.Net projects\CinematiacaBeta\CinematicaDAL\obj\Debug\net6.0\CinematicaDAL.pdb
+D:\.Net projects\CinematiacaBeta\CinematicaDAL\obj\Debug\net6.0\ref\CinematicaDAL.dll

@@ -1,0 +1,15 @@
+D:\.Net projects\CinematiacaBeta\CinematicaBLL\obj\Debug\net6.0\CinematicaBLL.csproj.AssemblyReference.cache
+D:\.Net projects\CinematiacaBeta\CinematicaBLL\obj\Debug\net6.0\CinematicaBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net projects\CinematiacaBeta\CinematicaBLL\obj\Debug\net6.0\CinematicaBLL.AssemblyInfoInputs.cache
+D:\.Net projects\CinematiacaBeta\CinematicaBLL\obj\Debug\net6.0\CinematicaBLL.AssemblyInfo.cs
+D:\.Net projects\CinematiacaBeta\CinematicaBLL\obj\Debug\net6.0\CinematicaBLL.csproj.CoreCompileInputs.cache
+D:\.Net projects\CinematiacaBeta\CinematicaBLL\bin\Debug\net6.0\CinematicaBLL.deps.json
+D:\.Net projects\CinematiacaBeta\CinematicaBLL\bin\Debug\net6.0\CinematicaBLL.dll
+D:\.Net projects\CinematiacaBeta\CinematicaBLL\bin\Debug\net6.0\CinematicaBLL.pdb
+D:\.Net projects\CinematiacaBeta\CinematicaBLL\bin\Debug\net6.0\CinematicaDAL.dll
+D:\.Net projects\CinematiacaBeta\CinematicaBLL\bin\Debug\net6.0\CinematicaDAL.pdb
+D:\.Net projects\CinematiacaBeta\CinematicaBLL\obj\Debug\net6.0\CinematicaBLL.csproj.CopyComplete
+D:\.Net projects\CinematiacaBeta\CinematicaBLL\obj\Debug\net6.0\CinematicaBLL.dll
+D:\.Net projects\CinematiacaBeta\CinematicaBLL\obj\Debug\net6.0\refint\CinematicaBLL.dll
+D:\.Net projects\CinematiacaBeta\CinematicaBLL\obj\Debug\net6.0\CinematicaBLL.pdb
+D:\.Net projects\CinematiacaBeta\CinematicaBLL\obj\Debug\net6.0\ref\CinematicaBLL.dll

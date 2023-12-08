@@ -1,0 +1,36 @@
+﻿<Window x:Class="YourWpfProject.Views.MainWindow"
+        <!-- ... -->
+    Title="Cinematica Application" Height="600" Width="800">
+    <Grid>
+        <!-- Header Section -->
+        <!-- ... -->
+
+        <!-- Main Content Section -->
+        <Grid Margin="10">
+            <Grid.ColumnDefinitions>
+                <!-- ... -->
+            </Grid.ColumnDefinitions>
+
+            <!-- Left Side: Movie List -->
+            <StackPanel Grid.Column="0" Margin="0,0,10,0">
+                <TextBlock Text="Movies" FontWeight="Bold" FontSize="16" Margin="0,0,0,10" TextAlignment="Center"/>
+                <ListView ItemsSource="{Binding Movies}" DisplayMemberPath="Title">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Title" DisplayMemberBinding="{Binding Title}"/>
+                            <GridViewColumn Header="Genre" DisplayMemberBinding="{Binding Genre}"/>
+                            <!-- Add more columns as needed -->
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+
+                <!-- Add search and filters as needed -->
+            </StackPanel>
+
+            <!-- Right Side: Movie Details -->
+            <StackPanel Grid.Column="1">
+                <!-- ... -->
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>
